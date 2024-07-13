@@ -3,7 +3,7 @@
 # Set variables
 url="https://github.com/equalsraf/win32yank/releases/latest/download/win32yank-x64.zip"
 executable="win32yank.exe"
-install_dir="~/.local/bin"
+install_dir="$HOME/.local/bin"
 
 # Function to display errors and exit
 display_error() {
